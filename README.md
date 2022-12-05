@@ -1,5 +1,5 @@
 # Commands to run CLEAR-MOT for a sample test case
-##### Go to the terminal in which python is running and run the following commands 
+#### Go to the terminal in which python is running and run the following commands 
 
 import motmetrics as mm
 import numpy as np
